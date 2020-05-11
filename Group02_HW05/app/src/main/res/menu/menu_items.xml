@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi_cost"
+        android:title="Sort by Cost" />
+    <item
+        android:id="@+id/mi_date"
+        android:title="Sort by Date" />
+    <item
+        android:id="@+id/mi_reset"
+        android:title="Reset All" />
+</menu>

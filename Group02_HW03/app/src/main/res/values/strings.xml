@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iTunes Music Search</string>
+    <string name="enter_keyword">Enter a keyword</string>
+    <string name="btn_finish">Finish</string>
+    <string name="search_keyword">Search Keyword</string>
+    <string name="limit">Limit :</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_reset">Reset</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="price">Price</string>
+    <string name="date">Date</string>
+    <string name="results">Results</string>
+    <string name="loading">Loading...</string>
+</resources>

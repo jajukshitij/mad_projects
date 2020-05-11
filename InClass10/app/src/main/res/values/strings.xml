@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InClass10</string>
+    <string name="enter_fields">Enter all the fields</string>
+    <string name="enter_correct">Please enter all the fields correctly</string>
+    <string name="auth_fail">Login Failed ! </string>
+    <string name="signup_fail">Sign Up Failed ! </string>
+    <string name="new_user">New User created !</string>
+    <string name="type_msg">Type message to send</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="conf_pwd">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_note">New Note</string>
+    <string name="add">Add</string>
+    <string name="close">Close</string>
+    <string name="add_note">Add Note</string>
+</resources>

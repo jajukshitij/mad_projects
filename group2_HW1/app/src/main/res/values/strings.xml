@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BAC Calculator</string>
+    <string name="textViewWt">Weight (lbs)</string>
+    <string name="editTextwtval">Enter weight</string>
+    <string name="textViewgender">Gender</string>
+    <string name="buttonsave">Save</string>
+    <string name="textViewdrinksize">Drink Size</string>
+    <string name="textViewalcpercnt">Alcohol %</string>
+    <string name="textViewpercentsymbol">%</string>
+    <string name="buttonadddrink">Add Drink</string>
+    <string name="buttonreset">Reset</string>
+    <string name="textViewbaclevel">BAC Level :</string>
+    <string name="textViewyourstatus">Your Status :</string>
+    <string name="switch1">Gender</string>
+    <string name="male">M</string>
+    <string name="female">F</string>
+    <string name="radioButton1oz">1 oz</string>
+    <string name="radioButton5oz">5 oz</string>
+    <string name="radioButton12oz">12 oz</string>
+    <string name="youre_safe">You\'re Safe</string>
+    <string name="be_careful">Be Careful...</string>
+    <string name="over_limit">Over the limit!</string>
+    <string name="no_more_drinks">No More Drinks for you</string>
+    <string name="enter_weight">Enter the weight in lbs</string>
+    <string name="save_weight">Save the weight and gender</string>
+    <string name="male_st">Male</string>
+    <string name="female_st">Female</string>
+
+
+</resources>
